@@ -7,4 +7,6 @@
 
 ``` python
 myVar = "Hello, world!";
+for egg in carton:
+  eggs++
 ```
