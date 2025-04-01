@@ -10,3 +10,8 @@ myVar = "Hello, world!";
 for egg in carton:
   eggs++
 ```
+``` java
+myVar = "Hello, world!";
+for egg in carton:
+  eggs++
+```
