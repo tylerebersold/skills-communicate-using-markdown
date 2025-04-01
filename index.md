@@ -12,6 +12,5 @@ for egg in carton:
 ```
 ``` java
 myVar = "Hello, world!";
-for egg in carton:
-  eggs++
+for(eggs=0,eggs<carton, eggs++)
 ```
