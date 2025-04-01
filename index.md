@@ -3,3 +3,4 @@
 ### This is the \<h3> header
 ###### Unknown how i would be able to effectively utilize this for resume construction, seems like it would be difficult but maybe not.
 # time to add commit
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
